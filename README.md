@@ -16,7 +16,7 @@
 - `dsa-practice` – DSA codes from LeetCode/college prep  
 
 📫 Reach me:
-- Email: mrigankavi(@gmail.com
+- Email: mrigankavi9@gmail.com
 - LinkedIn: www.linkedin.com/in/mrigank-avi
 
 ⚡ Fun fact: I’m turning pain into power and failure into fuel 🔥
